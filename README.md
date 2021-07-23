@@ -17,7 +17,7 @@ Entre em contato comigo para conversarmos:
 
 <p align="left">
   <a> 
-    <a href=" href="https://api.whatsapp.com/send?1=pt_br&phone=5567984530856">
+    <a href="https://api.whatsapp.com/send?1=pt_br&phone=5567984530856">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
   </a>
   <a>
