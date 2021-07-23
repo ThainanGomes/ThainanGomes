@@ -17,11 +17,11 @@ Entre em contato comigo para conversarmos:
 
 <p align="left">
   <a> 
-    <a href=" href="https://api.whatsapp.com/send?1=pt_br&phone=5567984530856" alt="Instagram">
+    <a href=" href="https://api.whatsapp.com/send?1=pt_br&phone=5567984530856">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
   </a>
   <a>
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-    <a href="https://www.instagram.com/go_thainan/?hl=pt-br">
+    <a href="https://www.instagram.com/go_thainan/?hl=pt-br" alt="Instagram">
   </a>                                                                                                               
 </p>
