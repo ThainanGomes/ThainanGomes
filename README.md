@@ -15,7 +15,6 @@ Gosto de trabalhar com desenvolvimento, mesmo que a minha experiência esteja li
 **CaronaAmigaPublic** é o projeto que atualmente estou me dedicando para desenvolver
 Ficaria feliz se pudesse dar uma olhadinha :)
 
-
 <br>
 Entre em contato comigo para conversarmos:
 
